@@ -25,7 +25,7 @@ This field plug-in requires the `text` field type.
 
 ### Getting started
 
-**To use this plug-in as-is**, just download the [baseline-text.fieldplugin.zip](https://github.com/surveycto/baseline-text/raw/master/extras/test-form/test-form-package.zip) file from this repo, specify this field plug-in as a custom field appearance in the form design (like in the [test form](https://github.com/surveycto/baseline-text/raw/master/extras/test-form/test-form-package.zip)), and attach it to your form. For more details about using field plug-ins, please read the [user documentation](https://docs.surveycto.com/02-designing-forms/03-advanced-topics/06.using-field-plug-ins.html).
+**To use this plug-in as-is**, just download the [baseline-text.fieldplugin.zip](https://github.com/surveycto/baseline-text/raw/master/baseline-text.fieldplugin.zip) file from this repo, specify this field plug-in as a custom field appearance in the form design (like in the [test form](https://github.com/surveycto/baseline-text/raw/master/extras/test-form/test-form-package.zip)), and attach it to your form. For more details about using field plug-ins, please read the [user documentation](https://docs.surveycto.com/02-designing-forms/03-advanced-topics/06.using-field-plug-ins.html).
 
 **To create your own** field plug-in using this as a template, follow these steps:
 
